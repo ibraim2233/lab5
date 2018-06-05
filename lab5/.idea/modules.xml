@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\MOB\lab5-assignment-buildings-skeleton\Laboratornaya_rabota_5-master.iml" filepath="D:\MOB\lab5-assignment-buildings-skeleton\Laboratornaya_rabota_5-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5-assignment-buildings-skeleton.iml" filepath="$PROJECT_DIR$/lab5-assignment-buildings-skeleton.iml" />
+    </modules>
+  </component>
+</project>
